@@ -21,23 +21,23 @@
 
  ## Skills
  **languages and tools:**  
-<div align="center" >
+<div >
 <code>
-<img width="48" alt="javascript" src="https://cdn.icon-icons.com/icons2/3914/PNG/96/playwright_logo_icon_248827.png"></code>
+<img width="48" alt="playwright" src="https://playwright.dev/img/playwright-logo.svg"></code>
 <code> 
-<img width="48" alt="javascript" src="https://cdn.icon-icons.com/icons2/2667/PNG/96/folder_ts_icon_161281.png"></code>
+<img width="48" alt="typescript" src="https://cdn.icon-icons.com/icons2/2667/PNG/96/folder_ts_icon_161281.png"></code>
 <code>
 <img width="48" alt="javascript" src="https://cdn.icon-icons.com/icons2/1451/PNG/96/jsfolder_99356.png"></code>
 <code>
-<img width="48" alt="javascript" src="https://cdn.icon-icons.com/icons2/3053/PNG/96/postman_macos_bigsur_icon_189815.png"></code>
+<img width="48" alt="postman" src="https://cdn.icon-icons.com/icons2/3053/PNG/96/postman_macos_bigsur_icon_189815.png"></code>
 <code>
-<img width="48" alt="javascript" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png"></code>
+<img width="48" alt="html" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png"></code>
 <code>
-<img width="48" alt="javascript" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png"></code>
+<img width="48" alt="css" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png"></code>
 <code>
-<img width="48" alt="javascript" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/folder_type_cypress_icon_129991.png"></code>
+<img width="48" alt="cypress" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/folder_type_cypress_icon_129991.png"></code>
 <code>
-<img width="48" alt="javascript" src="https://cdn.icon-icons.com/icons2/3915/PNG/96/selenium_logo_icon_249659.png">
+<img width="48" alt="selenium" src="https://img.icons8.com/?size=60&id=VOnRj9vGpXV8&format=png">
 </code>
 </div>
 
