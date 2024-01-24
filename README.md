@@ -1,8 +1,8 @@
 
-<h1 align="center" ><a href="https://withkoji.com/@JacXty">
+<h1 align="center" >
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;+I'm+Jason_Uyaguari;Welcome!)
-</a></h1>
+</h1>
 <div  align="center" >
 
 ![img](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
@@ -60,6 +60,8 @@
 
 <div align="center">
 <a href="https://www.instagram.com/yeison_155/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<a href="https://withkoji.com/@JacXty" target="_blank"><img src="https://images.koji-cdn.com/e3c909b3-6919-4e0e-8b97-8b2eee140e37/userData/5m81t-IMG_20230504_121121.jpg?w=102"></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonuyaguari/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=jason:jasonofficex@gmail.com)](jason:jasonofficex@gmail.com)
