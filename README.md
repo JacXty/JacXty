@@ -21,7 +21,7 @@
 
  ## Skills
  **languages and tools:**  
-<div >
+<div style=" display:flex; text-aling:center; gap:1rem;">
 <code>
 <img width="48" alt="playwright" src="https://playwright.dev/img/playwright-logo.svg"></code>
 <code> 
