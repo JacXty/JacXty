@@ -9,36 +9,37 @@
 
 </div>
 
-
 ### Toy Chiquito
+
 <br/>
 
 ![](https://cdn3.emoji.gg/emojis/4682-popurin.gif) I'm interested in the world of automation, without leaving aside my taste for dev developer.
 
-![](https://cdn3.emoji.gg/emojis/4682-popurin.gif)  I'm currently working on myself, improving every day in updating my skills. 
+![](https://cdn3.emoji.gg/emojis/4682-popurin.gif)  I'm currently working on myself, improving every day in updating my skills.
 
 <br/>
 
 ## Skills
+
 **languages and tools:**
 <div style=" display:flex; text-align:center; gap:1rem;">
-  <code>
-<img width="48" alt="playwright" src="https://playwright.dev/img/playwright-logo.svg"/></code>
-  <code>
-<img width="48" alt="typescript" src="https://cdn.icon-icons.com/icons2/2667/PNG/96/folder_ts_icon_161281.png"/></code>
-  <code>
-<img width="48" alt="javascript" src="https://cdn.icon-icons.com/icons2/1451/PNG/96/jsfolder_99356.png"/></code>
-  <code>
-<img width="48" alt="postman" src="https://cdn.icon-icons.com/icons2/3053/PNG/96/postman_macos_bigsur_icon_189815.png"/></code>
-  <code>
-<img width="48" alt="html" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png"/></code>
-  <code>
-<img width="48" alt="css" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png"/></code>
-  <code>
-<img width="48" alt="cypress" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/folder_type_cypress_icon_129991.png"/></code>
-  <code>
-<img width="48" alt="selenium" src="https://img.icons8.com/?size=60&id=VOnRj9vGpXV8&format=png"/>
-</code>
+
+<img width="38" alt="playwright" src="https://playwright.dev/img/playwright-logo.svg"/>
+
+<img width="38" alt="typescript" src="https://cdn.icon-icons.com/icons2/2667/PNG/96/folder_ts_icon_161281.png"/>
+  
+<img width="38" alt="javascript" src="https://cdn.icon-icons.com/icons2/1451/PNG/96/jsfolder_99356.png"/>
+
+<img width="38" alt="postman" src="https://cdn.icon-icons.com/icons2/3053/PNG/96/postman_macos_bigsur_icon_189815.png"/>
+  
+<img width="38" alt="html" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png"/>
+
+<img width="38" alt="css" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png"/>
+
+<img width="38" alt="cypress" src="https://cdn.icon-icons.com/icons2/2107/PNG/96/folder_type_cypress_icon_129991.png"/>
+
+<img width="38" alt="selenium" src="https://img.icons8.com/?size=60&id=VOnRj9vGpXV8&format=png"/>
+
 </div>
 
 <br/>
@@ -47,20 +48,18 @@
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JasonSawxd&theme=github_dark" />
 </p>
 
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JasonSaw&theme=blueberry_duo">
 
 ![Elif Bilge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonSawxd&show_icons=true&theme=tokyonight)
 
-</div> 
-
+</div>
 
 <h1 align="center">Contacts </h1><p align="center">
 
 <div align="center">
-<a href="https://www.instagram.com/yeison_155/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://www.instagram.com/yeison_155/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonuyaguari/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=jason:jasonofficex@gmail.com)](jason:jasonofficex@gmail.com)
@@ -69,4 +68,3 @@
 ~~~
 Thank for you visit ❤
 ~~~
-
