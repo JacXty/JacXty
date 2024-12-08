@@ -1,17 +1,8 @@
 
 <h1 align="center" >
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;+I'm+Jason_Uyaguari;Welcome!)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=30&center=true&vCenter=true&width=1000&lines=HELLO👋;+I'm+Jason;Welcome!)
 </h1>
-<div  align="center" >
-
-![img](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif)
-
-</div>
-
-### Toy Chiquito
-
-<br/>
 
 ![](https://cdn3.emoji.gg/emojis/4682-popurin.gif) I'm interested in the world of automation, without leaving aside my taste for dev developer.
 
@@ -45,14 +36,14 @@
 <br/>
 <h1 align="center">Github Metrics </h1><p align="center">
 
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JasonSawxd&theme=github_dark" />
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacXty&theme=github_dark" />
 </p>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JasonSaw&theme=blueberry_duo">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JacXty&theme=blueberry_duo">
 
-![Elif Bilge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonSawxd&show_icons=true&theme=tokyonight)
+![Elif Bilge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacXty&show_icons=true&theme=tokyonight)
 
 </div>
 
@@ -61,7 +52,7 @@
 <div align="center">
 <a href="https://www.instagram.com/yeison_155/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<a href="https://withkoji.com/@JacXty" target="_blank"><img src="https://images.koji-cdn.com/e3c909b3-6919-4e0e-8b97-8b2eee140e37/userData/5m81t-IMG_20230504_121121.jpg?w=102"></a>
+<a href="https://linktr.ee/JacXty" target="_blank"><img src="https://images.koji-cdn.com/e3c909b3-6919-4e0e-8b97-8b2eee140e37/userData/5m81t-IMG_20230504_121121.jpg?w=102"></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonuyaguari/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=jason:jasonofficex@gmail.com)](jason:jasonofficex@gmail.com)
